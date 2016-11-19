@@ -1,0 +1,28 @@
+{
+    "author": "arvin0731@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pws",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "PWS",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "diorite",
+            "emery"
+        ],
+        "uuid": "17a313dd-4066-4ac8-b37e-2e699ab3250f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
